@@ -16,3 +16,5 @@
 
 <https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-10-23_18-27-11_conv_9e09dd72_chat_10_23_2026_1_14>
 
+<https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-10-23_23-40-32_conv_f151b097_qemu_research>
+
