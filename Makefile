@@ -2,6 +2,7 @@ SOURCES := $(wildcard *.jsonl)
 TARGETS := $(SOURCES:.jsonl=.md)
 
 all: $(TARGETS)
+	cp *.md docs
 
 %.md: %.jsonl
 	cat $< | nix run github:nix-ontouchstart/nix-ontouchstart-jsonl2md/aarch64-darwin > $@
