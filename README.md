@@ -8,3 +8,7 @@
 
 <https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-10-23_13-14-51_conv_4bdf0dec_chat_10_23_2026_9_07>
 
+<https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-10-23_13-57-39_conv_1590b0f1_BaseLayer-AI>
+
+<https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-10-23_14-09-09_conv_1590b0f1_baselayer_ai>
+
