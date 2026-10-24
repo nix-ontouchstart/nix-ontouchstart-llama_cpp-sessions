@@ -18,3 +18,5 @@
 
 <https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-10-23_23-40-32_conv_f151b097_qemu_research>
 
+<https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-10-24_02-27-30_conv_ecb8a27e_aarch64_darwin_kernel-only-wip>
+
