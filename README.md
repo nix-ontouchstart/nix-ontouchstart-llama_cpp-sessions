@@ -28,3 +28,5 @@
 
 <https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-10-27_16-06-39_conv_da251f2e-Human_engineers_have_a_tendency_of_over_engineering_and_AI_only_makes_it_worse>
 
+<https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-10-27_23-36-05_conv_1db780b5_chat_10_27_2026_7_28>
+
