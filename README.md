@@ -26,3 +26,5 @@
 
 <https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-10-27_02-12-22_conv_9a8a7510_aarch64-darwin-qemu-boot-busybox-kernel-heartbeat>
 
+<https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-10-27_16-06-39_conv_da251f2e-Human_engineers_have_a_tendency_of_over_engineering_and_AI_only_makes_it_worse>
+
