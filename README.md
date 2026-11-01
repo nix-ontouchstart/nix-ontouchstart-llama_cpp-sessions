@@ -46,3 +46,5 @@
 
 <https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-10-30T17-53-18-349Z_01a18df1-d40d-70ac-bd45-331d9bc4d3af>
 
+<https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-11-01_15-06-34_conv_f2e60cbc_what_is_cargo_cult_>
+
