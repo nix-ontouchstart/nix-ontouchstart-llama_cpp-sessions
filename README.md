@@ -58,3 +58,5 @@
 
 <https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-11-02_17-34-33_cargo-cult>
 
+<https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-11-02_20-07-56_conv_1b4ea53b_github_vs_flakehub>
+
