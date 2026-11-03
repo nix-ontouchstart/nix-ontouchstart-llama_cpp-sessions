@@ -68,3 +68,5 @@
 
 <https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-11-03T14-49-33-564Z_01a1a1e3-0a7b-7198-b729-c226474e28c2>
 
+<https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-11-03_16-44-09_conv_0e009377_what_do_we_learn>
+
