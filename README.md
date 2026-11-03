@@ -66,3 +66,9 @@
 
 <https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-11-03_02-29-51_conv_19f3d331_what_how_and_why_>
 
+<https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-11-03T14-49-33-564Z_01a1a1e3-0a7b-7198-b729-c226474e28c2>
+
+<https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-11-03T14-49-33-564Z_01a1a1e3-0a7b-7198-b729-c226474e28c2>
+
+<https://nix-ontouchstart.github.io/nix-ontouchstart-llama_cpp-sessions/2026-11-03T14-49-33-564Z_01a1a1e3-0a7b-7198-b729-c226474e28c2>
+
